@@ -7,7 +7,7 @@ I am a dedicated Software Developer and current BSc student in Information Syste
 - 🌱 **Currently Learning:** Advanced cloud computing, DevOps practices, and containerization.
 - 👯 **Open to Collaborate:** On open-source projects, innovative tech solutions, and research-driven software.
 - 💬 **Ask Me About:** Object-oriented programming, API development, and database management.
-- 📫 **Reach Me At:** [isihakaabdallah@gmail.com](mailto:isihakaabdallah@gmail.com)
+- 📫 **Reach Me At:** [isihakaabdallah25@gmail.com](mailto:isihakaabdallah25@gmail.com)
 
 ## 🛠️ Technical Skills
 
