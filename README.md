@@ -1,4 +1,4 @@
-# 👋 Isihaka Muhunzi
+# 👋 Is-haka Muhunzi
 
 ## 📌 About Me
 Passionate Software Developer and ardent learner in Information Systems Management. Currently pursuing my BSc at Ardhi University, I aim to blend my technical skills with a passion for impactful software development.
