@@ -27,9 +27,5 @@ Inspired by Tanzania's cultural richness, I strive to create inclusive solutions
 - CSS3
 - JavaScript
 
-### 📊 GitHub Stats
-- ![Isihaka's GitHub Stats](#) *(Replace with actual link if you have GitHub stats)*
-- ![Isihaka's Top Languages](#) *(Replace with actual link if you have language stats)*
-
 ### 🔗 Latest Activity
 - Stay updated with my latest projects, contributions, and open-source activities here on GitHub.
