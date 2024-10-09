@@ -3,6 +3,13 @@
 ### 📌 About Me
 I am a passionate Software Developer and ardent learner in Information Systems Management. Currently pursuing my BSc at Ardhi University, I aim to blend my technical skills with a passion for impactful software development.
 
+## Achievements:
+
+![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-yellow?style=for-the-badge&logo=lightning-bolt&logoColor=white)
+![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-blue?style=for-the-badge&logo=github&logoColor=white)
+![YOLO](https://img.shields.io/badge/Achievement-YOLO-red?style=for-the-badge&logo=rocket&logoColor=white)
+
+
 ### 🎓 Education
 I am pursuing a Bachelor’s degree in Information Systems Management at Ardhi University, focusing on software development, system management, and data-driven solutions.
 
