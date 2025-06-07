@@ -1,32 +1,32 @@
-## 👋 Is-haka Muhunzi
+## 👋 Hi, I'm Is-haka Muhunzi
 
 ### 📌 About Me
-I am a passionate Software Developer and ardent learner in Information Systems Management. Currently pursuing my BSc at Ardhi University, I aim to blend my technical skills with a passion for impactful software development.
-
+I’m a dedicated Software Developer and passionate learner specializing in Information Systems Management. Currently pursuing a Bachelor of Science at **Ardhi University**, I focus on building impactful digital solutions that merge technology with real-world needs.
 
 ### 🎓 Education
-I am pursuing a Bachelor’s degree in Information Systems Management at Ardhi University, focusing on software development, system management, and data-driven solutions.
+**BSc in Information Systems Management**  
+*Ardhi University, Tanzania*  
+Areas of focus: software development, system design, data-driven decision-making, and digital transformation.
 
 ### 💼 Professional Journey
-Starting with a deep interest in backend development using Java and Python, I have expanded my skills to include web frameworks, cloud computing, and DevOps.
+My journey began with backend development using **Java** and **Python**, and has since evolved to encompass modern web frameworks, **cloud technologies**, and **DevOps** practices. I enjoy translating complex requirements into functional and elegant software systems.
 
-### 🌍 Life Philosophy
-I believe in continuous learning, collaboration, and innovation. My goal is to use technology to solve real-world problems and contribute to the global tech community.
+### 🌍 My Philosophy
+I believe in lifelong learning, open collaboration, and the power of innovation. My mission is to leverage technology to solve real-world challenges and contribute meaningfully to both local and global communities.
 
 ### 🌱 Embracing Diversity
-Inspired by Tanzania's cultural richness, I strive to create inclusive solutions that resonate with diverse communities.
-
-### 🌐 Connect with Me
-- **[LinkedIn](https://www.linkedin.com/in/isihaka-abdallah-189079295/)**
-- **[Email](mailto:isihakaabdallah@gmail.com)**
+Rooted in the vibrant cultural landscape of Tanzania, I am driven to develop inclusive and accessible digital solutions that serve diverse audiences.
 
 ### 🛠 Tech Stack
-- Java
-- Python
-- Django
-- HTML5
-- CSS3
-- JavaScript
+- **Languages:** Java, Python, JavaScript  
+- **Frameworks:** Django, Laravel  
+- **Web:** HTML5, CSS3, Bootstrap  
+- **Tools:** Git, GitHub, VS Code, Postman  
+- **Others:** REST APIs, MySQL, SQLite
 
-### 🔗 Latest Activity
-- Stay updated with my latest projects, contributions, and open-source activities here on GitHub.
+### 🔗 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/isihaka-abdallah-189079295/)
+- 📧 [Email](mailto:isihakaabdallah@gmail.com)
+
+### 📌 GitHub Activity
+Explore my repositories to see my latest projects, contributions, and experiments in backend development, API design, and full-stack web apps.
