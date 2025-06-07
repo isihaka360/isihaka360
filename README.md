@@ -9,7 +9,7 @@ I’m a dedicated Software Developer and passionate learner specializing in Info
 Areas of focus: software development, system design, data-driven decision-making, and digital transformation.
 
 ### 💼 Professional Journey
-My journey began with backend development using **Java** and **Python**, and has since evolved to encompass modern web frameworks, **cloud technologies**, and **DevOps** practices. I enjoy translating complex requirements into functional and elegant software systems.
+My journey began with backend development using **Python** and **PHP**, and has since evolved to encompass modern web frameworks, **cloud technologies**, and **DevOps** practices. I enjoy translating complex requirements into functional and elegant software systems.
 
 ### 🌍 My Philosophy
 I believe in lifelong learning, open collaboration, and the power of innovation. My mission is to leverage technology to solve real-world challenges and contribute meaningfully to both local and global communities.
@@ -18,7 +18,7 @@ I believe in lifelong learning, open collaboration, and the power of innovation.
 Rooted in the vibrant cultural landscape of Tanzania, I am driven to develop inclusive and accessible digital solutions that serve diverse audiences.
 
 ### 🛠 Tech Stack
-- **Languages:** Java, Python, JavaScript  
+- **Languages:** PHP, Python, JavaScript  
 - **Frameworks:** Django, Laravel  
 - **Web:** HTML5, CSS3, Bootstrap  
 - **Tools:** Git, GitHub, VS Code, Postman  
